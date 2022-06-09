@@ -1,6 +1,6 @@
 # stats170b_team7
 
-File #1: extract_full_youtube_transcription.ipynb
+# File #1: extract_full_youtube_transcription.ipynb
 
 This is the file to generate the video id, state, date, and full transcript from Youtube API. It will take a long time to run the code due to the length and the amount of the videos, so I put every generated data files (partial data because the original file exceeds 20M) inside already. There's no need to run this file, and the final result for this file is: id_state_date_full_final.csv.
 
